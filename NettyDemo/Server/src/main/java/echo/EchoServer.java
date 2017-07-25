@@ -1,4 +1,4 @@
-package main.java.echo;
+package echo;
 
 import echo.EchoServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
